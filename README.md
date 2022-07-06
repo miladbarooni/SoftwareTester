@@ -1,2 +1,2 @@
 # SoftwareTester
-A Random/Fuzzing testing software.
+A Random/Fuzzing/DSE testing software.
